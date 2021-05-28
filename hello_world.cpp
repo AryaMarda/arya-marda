@@ -10,4 +10,6 @@ int main()
         i++;
     }
     cout<<endl<<i<<endl;
+    cout<<"while loop is traitor";
+    cout<<"It's his property can't do anything";
 }
