@@ -7,4 +7,5 @@ int main()
         cout<<"hi"<<endl;
     }
     cout<<"dev branch";
+    cout<<"Another change in dev branch";
 }
